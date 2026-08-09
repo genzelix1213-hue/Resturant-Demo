@@ -1,0 +1,8 @@
+{
+  "name": "Remix Restaurant Demo Web 2",
+  "description": "A high-ticket, production-quality restaurant website proposal showcasing authentic Pakistani, Continental, and BBQ dining in Lahore, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
